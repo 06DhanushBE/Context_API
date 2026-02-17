@@ -10,3 +10,10 @@ pydantic-settings
 pytest
 flake8
 argon2-cffi
+celery
+redis
+qdrant-client
+langchain
+langchain-community
+pypdf
+sentence-transformers
