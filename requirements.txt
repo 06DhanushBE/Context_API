@@ -1,6 +1,12 @@
 ﻿fastapi
 uvicorn
 python-dotenv
-
+sqlalchemy
+asyncpg
+passlib[argon2]
+python-multipart
+alembic
+pydantic-settings
 pytest
 flake8
+argon2-cffi
